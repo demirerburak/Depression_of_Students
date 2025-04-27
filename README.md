@@ -6,3 +6,7 @@ This project uses a dataset to predict depression levels of students based on va
 
 The dataset, 'student_depression_dataset.csv', includes the following columns:
 -id, City, Profession, Work Pressure, Job Satisfaction, Degree, Gender, Family History of Mental Illness, Dietary Habits, Have you ever had suicidal thoughts?, Sleep Duration, Depression
+
+## 📌 Dataset Notice
+
+This project uses the Titanic dataset from Kaggle.

@@ -9,4 +9,4 @@ The dataset, 'student_depression_dataset.csv', includes the following columns:
 
 ## 📌 Dataset Notice
 
-This project uses the Titanic dataset from Kaggle.
+This project uses the Student Depression dataset from Kaggle.
